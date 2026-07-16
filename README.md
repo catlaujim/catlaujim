@@ -1,1 +1,1 @@
-Data Analyst | R | Python | SQL | Statistics
+Data Analysis | R | Python | SQL | Statistics
