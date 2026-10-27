@@ -1,1 +1,1 @@
-Data Analysis | R | Python | SQL | Statistics
+Data Analysis | Machine Learning | Deep Learning | R | Python | SQL | Statistics
